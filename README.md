@@ -1,12 +1,10 @@
-# Getting Started with Create React App and Redux
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Tesla-Clone
+This is a front end clone of Tesla's website using React.JS, Styled-Components and Redux. 
 
 ## Demo
 To view the live demo [click here](https://tesla-replication.netlify.app/)
 
 <img width="1268" alt="Tesla Image" src="https://github.com/cheternal7890/tesla-clone/assets/157067093/ef0ad471-fcdb-4b00-a399-9d9d289be031">
-
 
 ## Available Scripts
 
